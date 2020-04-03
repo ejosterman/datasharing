@@ -71,7 +71,6 @@ to handle. First is to include a row at the top of each data table/spreadsheet t
 So if you measured age at diagnosis for patients, you would head that column with the name `AgeAtDiagnosis` instead
 of something like `ADx` or another abbreviation that may be hard for another person to understand. 
 
-
 Here is an example of how this would work from genomics. Suppose that for 20 people you have collected gene expression measurements with 
 [RNA-sequencing](http://en.wikipedia.org/wiki/RNA-Seq). You have also collected demographic and clinical information
 about the patients including their age, treatment, and diagnosis. You would have one table/spreadsheet that contains the clinical/demographic
