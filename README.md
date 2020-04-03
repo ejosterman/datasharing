@@ -159,7 +159,6 @@ to confirm that they can obtain the same output file you did.
 
 
 
-
 What you should expect from the analyst
 ====================
 
